@@ -1,4 +1,4 @@
-# Supernovae_MCMC
+# SupernovaMCMC
 
 Run Monte Carlo Markov Chains using the Metropolis-Hastings algorithm with Supernovae Ia data to perform cosmological parameter inference.
 
